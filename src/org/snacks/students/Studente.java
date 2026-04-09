@@ -1,4 +1,4 @@
-package org.snacks.studente;
+package org.snacks.students;
 
 public class Studente {
     private String nome;

@@ -1,4 +1,4 @@
-package org.snacks.studente;
+package org.snacks.students;
 
 
 
